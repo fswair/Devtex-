@@ -1,2 +1,2 @@
-# Devtex-
+# Devtex
 www.devtexstudio.com
